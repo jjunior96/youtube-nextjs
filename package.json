@@ -42,10 +42,10 @@
   "devDependencies": {
     "@swc/core": "^1.4.2",
     "@swc/jest": "^0.2.26",
-    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/jest-dom": "^6.4.6",
     "@testing-library/react": "^14.0.0",
     "@types/jest": "^29.5.1",
-    "@types/testing-library__jest-dom": "^5.14.6",
+    "@types/testing-library__jest-dom": "^6.0.0",
     "@typescript-eslint/eslint-plugin": "^6.12.0",
     "@typescript-eslint/parser": "^6.21.0",
     "eslint": "8.54.0",
